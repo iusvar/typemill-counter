@@ -2,7 +2,7 @@
 
 The `counter` is a plugin that counts characters, words, sentences and reading time even when typing for [Typemill](https://github.com/typemill/typemill)
 
-![Typemill Counter](assets/counter.gif)
+![Typemill Counter](assets/counters.gif)
 
 ## Features
 
