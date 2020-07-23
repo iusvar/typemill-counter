@@ -1,0 +1,20 @@
+name: Word Counter
+version: 1.0.0
+description: Plugin to count characters, words and paragraphs in a text.
+author: iusvar
+homepage: https://github.com/teamtnt/tntsearch
+licence: MIT
+paypal: https://paypal.me/typemill
+amount: 5
+
+settings:
+  words4minute: 160
+
+forms:
+  fields:
+
+    words4minute:
+      type: text
+      label: Words read in a minute
+      placeholder: 160
+      required: true
